@@ -1,0 +1,23 @@
+h1{
+	color: orange;
+	text-align: center;
+}
+
+h2{
+	color: gray;
+	background-color: white;
+	text-align: center;
+}
+a:link{
+	
+}
+a:hover{
+	color: blue;
+}
+img:hover.foo{
+	box-shadow: 0 0 100px #ccc;
+	background-color: rgba(0,0,0,.15);
+} 
+img{
+	border-color: #000;
+}
