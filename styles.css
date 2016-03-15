@@ -15,7 +15,7 @@ a:hover{
 	color: blue;
 }
 img:hover.foo{
-	box-shadow: 0 0 100px #ccc;
+	box-shadow: 0 0 100px #FFA500;
 	background-color: rgba(255,165,0,.15);
 } 
 img{
