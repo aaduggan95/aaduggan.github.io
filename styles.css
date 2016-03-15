@@ -16,7 +16,7 @@ a:hover{
 }
 img:hover.foo{
 	box-shadow: 0 0 100px #ccc;
-	background-color: rgba(0,0,0,.15);
+	background-color: rgba(255,165,0,.15);
 } 
 img{
 	border-color: #000;
